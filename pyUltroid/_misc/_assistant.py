@@ -21,20 +21,20 @@ from . import append_or_update, owner_and_sudos
 OWNER = ultroid_bot.full_name
 
 MSG = f"""
-**Bee - UserBot**
+**Ryn - UserBot**
 ➖➖➖➖➖➖➖➖➖➖
-**Owner**: [{OWNER}](tg://user?id={ultroid_bot.uid})
-**Support**: @SpotifyStreamMusic
+**▢ Owner**: [{OWNER}](tg://user?id={ultroid_bot.uid})
+**▢ Support**: @TatsuyaMusicStream
 ➖➖➖➖➖➖➖➖➖➖
 """
 
 IN_BTTS = [
     [
         Button.url(
-            "Owner",
-            url="https://t.me/Usern4meDoesNotExist404",
+            "🤴 Owner",
+            url="https://t.me/Usern4meDoestExist404",
         ),
-        Button.url("Support", url="https://t.me/carisahabatonline_id"),
+        Button.url("Support 📚", url="https://t.me/carisahabatonline_id"),
     ]
 ]
 

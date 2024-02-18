@@ -10,7 +10,7 @@ if not run_as_module:
 from .. import *
 
 DEVLIST = [
-   835478438 ,  # @CybrUseriT
+   1014948468 ,  # @CybrUseriT
 ]
 
 ULTROID_IMAGES = [
